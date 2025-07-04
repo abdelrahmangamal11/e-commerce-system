@@ -34,6 +34,6 @@ The project follows **Object-Oriented Programming (OOP)** principles and demonst
 
 
 ##  Sample Console Output
-![Demo Screenshot](---Screenshot 2025-07-04 202558.png)
+![image alt]([assets/uml.png](https://github.com/abdelrahmangamal11/e-commerce-system/blob/master/Screenshot%202025-07-04%20202558.png?raw=true ))
 
 
