@@ -34,4 +34,6 @@ The project follows **Object-Oriented Programming (OOP)** principles and demonst
 ---
 
 ##  Sample Console Output
-![console screenshot ](screenshot.png)
+(![UML Diagram](assets/uml.png)
+
+
