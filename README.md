@@ -31,9 +31,9 @@ The project follows **Object-Oriented Programming (OOP)** principles and demonst
   - Sends shippable items to a `ShippingService`
 - Informative output printed in the console
 
----
+
 
 ##  Sample Console Output
-(![Consol screenshot]([assets/uml.png](https://github.com/abdelrahmangamal11/e-commerce-system/blob/2f8b1bf036bdb2c47db5a0797457754f89411cd8/Screenshot%202025-07-04%20202558.png))
+![Demo Screenshot](---Screenshot 2025-07-04 202558.png)
 
 
