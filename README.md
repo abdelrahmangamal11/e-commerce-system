@@ -9,8 +9,6 @@ The project follows **Object-Oriented Programming (OOP)** principles and demonst
 - Encapsulation
 - HashMap for cart logic
 
----
-
 ##  Features
 
 - Products may be:
@@ -32,8 +30,25 @@ The project follows **Object-Oriented Programming (OOP)** principles and demonst
 - Informative output printed in the console
 
 
+
+##  How to Run
+
+1. Clone the repo or copy the source files into your Java IDE (e.g., IntelliJ Community).
+2. Make sure you have a `Main.java` class to test different product and cart scenarios.
+3. Run the `Main` class and observe the printed output in the console.
+
+
 ##  Sample Console Output
+
 ![image alt](https://github.com/abdelrahmangamal11/e-commerce-system/blob/master/Screenshot%202025-07-04%20202558.png?raw=true
 )
+
+
+
+##  Technologies Used
+
+- Java SE (no frameworks)
+- OOP Design Principles
+
 
 
